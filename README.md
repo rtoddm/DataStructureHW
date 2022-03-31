@@ -1,0 +1,2 @@
+# DataStructureHW
+Array and Power
